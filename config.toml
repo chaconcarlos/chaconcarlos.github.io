@@ -7,3 +7,5 @@ enableEmoji = true
 title = "Inverse Refuctor"
 author = "Carlos Chacon"
 description = "I write software, music, and now, blog posts."
+profilePicture = "images/profile_pic.jpeg"
+ mainSections = ["blog"]
