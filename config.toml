@@ -1,0 +1,9 @@
+baseURL = 'http://chaconcarlos.github.io/'
+languageCode = 'en-us'
+theme = 'anatole'
+enableEmoji = true
+
+[params]
+title = "Inverse Refuctor"
+author = "Carlos Chacon"
+description = "I write software, music, and now, blog posts."
